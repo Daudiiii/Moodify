@@ -12084,11 +12084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FPT Slovakia\\Desktop\\COOL school\\MoodifyAPI\\MoodifyAPI.csproj",
+      "projectUniqueName": "C:\\Users\\FPT Slovakia\\Desktop\\MoodifyAPI\\MoodifyAPI.csproj",
       "projectName": "MoodifyAPI",
-      "projectPath": "C:\\Users\\FPT Slovakia\\Desktop\\COOL school\\MoodifyAPI\\MoodifyAPI.csproj",
+      "projectPath": "C:\\Users\\FPT Slovakia\\Desktop\\MoodifyAPI\\MoodifyAPI.csproj",
       "packagesPath": "C:\\Users\\FPT Slovakia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FPT Slovakia\\Desktop\\COOL school\\MoodifyAPI\\obj\\",
+      "outputPath": "C:\\Users\\FPT Slovakia\\Desktop\\MoodifyAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
